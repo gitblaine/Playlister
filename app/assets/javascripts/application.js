@@ -23,7 +23,7 @@ $(document).foundation();
 $(document).on('page:change', function(){
 	
 	SC.initialize({
-		client_id: "a62d5827b18b0fa49e0e57e1dcc2788a"
+		client_id: "517fd1c696ab6d48f8dcbdeec55102b3"
 	});
 });
 
